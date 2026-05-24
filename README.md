@@ -12,13 +12,3 @@ WebShield is a smart cybersecurity and website protection platform designed to e
 ✅ Automated Security Alerts
 ✅ Data Protection & Encryption
 ✅ Responsive Modern UI
-
-💻 Technologies Used
-Python
-Flask
-MongoDB
-HTML
-CSS
-JavaScript
-Cybersecurity Concepts
-API Integration
